@@ -1,0 +1,18 @@
+{
+  "name": "tw2css",
+  "version": "0.1.0",
+  "description": "A simple tool to convert tailwind to css.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Orkhan Karimov",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  },
+  "dependencies": {
+    "express": "^4.18.3"
+  }
+}
