@@ -1,6 +1,10 @@
 # Tailwind to CSS
 This tool simplifies the process of converting your HTML code snippets into optimized CSS using Tailwind CSS.
 
+### Roadmap:
+- [ ] Headless version (without frontend & backend, just npx command)
+- [ ] Website (for simple paste/copy interface)
+
 ### Contributing:
 Contributions are welcome! Whether you're interested in adding new components, improving existing ones, or enhancing documentation, feel free to contribute to the project. Please follow the guidelines outlined in the CONTRIBUTING.md file.
 
